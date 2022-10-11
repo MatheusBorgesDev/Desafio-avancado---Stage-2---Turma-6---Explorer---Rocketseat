@@ -13,6 +13,7 @@
 - HTML
 - CSS
 - Git e Github
+- Figma
 
 ## 📧 Contato
 
