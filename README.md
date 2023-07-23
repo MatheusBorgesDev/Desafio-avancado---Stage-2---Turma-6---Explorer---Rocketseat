@@ -1,20 +1,22 @@
-# Desafio avançado | Stage 2
+# Rocket Sect
 
-> Projeto construído durante as aulas da trilha Explorer da Rocketseat.
+## A homepage template for a security company.
 
-    As aulas tiveram o objetivo de construir o HTML e o CSS da aplicação a partir de um modelo do Figma. 
+> Project built during classes on the Explorer trail at Rocketseat educational institution.
+> 
+> The classes aimed to build the application's HTML and CSS from a Figma model.
 
 ![preview](./.github/preview.png)
 
-🔗 [Clique aqui para acessar](https://mbslash.github.io/Desafio-avancado---Stage-2---Turma-6---Explorer---Rocketseat/)
+🔗 [Click here to access](https://matheusborgesdev.github.io/Desafio-avancado---Stage-2---Turma-6---Explorer---Rocketseat/)
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - HTML
 - CSS
-- Git e Github
+- Git & Github
 - Figma
 
-## 📧 Contato
+## 📧 Contact
 
 matheusb.dev@gmail.com
