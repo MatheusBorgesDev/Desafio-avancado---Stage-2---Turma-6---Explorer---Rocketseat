@@ -8,7 +8,7 @@
 
 ![preview](./.github/preview.png)
 
-🔗 [Click here to access](https://matheusborgesdev.github.io/Desafio-avancado---Stage-2---Turma-6---Explorer---Rocketseat/)
+🔗 [Click here to access](https://matheusborgesdev.github.io/Rocket-Sect/)
 
 ## 💻 Technologies
 
